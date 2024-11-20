@@ -164,7 +164,6 @@ confusion_matrix(test_image_gen.classes,predictions)
 ### New Sample Data Prediction
 ![Screenshot 2024-11-20 214201](https://github.com/user-attachments/assets/bb6dbc0c-9852-4f81-83d7-a6d310b9c69e)
 
-![image](https://github.com/user-attachments/assets/3a6edba2-984c-491b-be15-bec93c7686c5)
 
 ## RESULT
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
